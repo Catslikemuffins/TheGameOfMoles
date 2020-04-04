@@ -10,9 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: New Animated Tile
+  m_Name: Grass Anim 4
   m_EditorClassIdentifier: 
-  m_AnimatedSprites: []
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 219902e4e194f4845a53c65c8c67740b, type: 3}
+  - {fileID: 21300000, guid: ac843b5fc0f5c3c40ab2e58be9332010, type: 3}
+  - {fileID: 21300000, guid: 3efeddba125bcee44bb05157bb6e854c, type: 3}
+  - {fileID: 21300000, guid: 35f2e18c5cd80564ab94ae23356836d0, type: 3}
   m_MinSpeed: 1
   m_MaxSpeed: 1
   m_AnimationStartTime: 0
